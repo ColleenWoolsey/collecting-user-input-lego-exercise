@@ -1,0 +1,94 @@
+{
+  "legos": [
+    {
+      "creatorName": "xcreator",
+      "legoName": "",
+      "legoColor": "",
+      "legoShape": "",
+      "id": 3
+    },
+    {
+      "creatorName": "xcreator",
+      "legoName": "",
+      "legoColor": "",
+      "legoShape": "",
+      "id": 4
+    },
+    {
+      "creatorName": "xcreator",
+      "legoName": "xname",
+      "legoColor": "xcolor",
+      "legoShape": "xshape",
+      "id": 5
+    },
+    {
+      "creatorName": "cw",
+      "legoName": "my creation",
+      "legoColor": "red",
+      "legoShape": "round",
+      "id": 6
+    },
+    {
+      "creatorName": "kw",
+      "legoName": "k-lego",
+      "legoColor": "blue",
+      "legoShape": "square",
+      "id": 7
+    },
+    {
+      "creatorName": "kw",
+      "legoName": "k-lego",
+      "legoColor": "blue",
+      "legoShape": "square",
+      "id": 8
+    },
+    {
+      "creatorName": "rw",
+      "legoName": "rw-lego",
+      "legoColor": "green",
+      "legoShape": "rectangle",
+      "id": 9
+    },
+    {
+      "creatorName": "rw",
+      "legoName": "rw-lego",
+      "legoColor": "green",
+      "legoShape": "rectangle",
+      "id": 10
+    },
+    {
+      "creatorName": "rlw",
+      "legoName": "rlw-lego",
+      "legoColor": "purple",
+      "legoShape": "triangle",
+      "id": 11
+    }    
+  ],
+  
+  "colors": [
+    {
+      "colorName": "Red",
+      "id": 1
+    },
+    {
+      "colorName": "Green",
+      "id": 2
+    },
+    {
+      "colorName": "Yellow",
+      "id": 3
+    },
+    {
+      "colorName": "Blue",
+      "id": 4
+    },
+    {
+      "colorName": "Orange",
+      "id": 5
+    },
+    {
+      "colorName": "Black",
+      "id": 6
+    }
+  ]
+}
